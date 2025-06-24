@@ -6,7 +6,7 @@ Este é meu primeiro projeto desenvolvido na faculdade como parte do meu aprendi
 
 - **Nome**: Edinando Cella 
 - 🎓 Estudante universitário apaixonado por tecnologia e desenvolvimento  
-- 💻 GitHub: [github.com/edinando](https://github.com/edinando)  
+- 💻 GitHub: [github.com/edinando](https://github.com/edinando.26)  
 - 🌍 Localização: Pinhalzinho, Santa Catarina, Brasil  
 
 ## 🚀 Objetivo do Projeto
