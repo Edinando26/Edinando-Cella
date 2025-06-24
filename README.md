@@ -1,4 +1,4 @@
-# Nome do Projeto
+# Edinando Cella
 
 Este é meu primeiro projeto desenvolvido na faculdade como parte do meu aprendizado em programação e desenvolvimento de software.
 
